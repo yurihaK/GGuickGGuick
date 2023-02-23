@@ -1,0 +1,1 @@
+print("hello Hamster 🐹 암어쮝쮝")
